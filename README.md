@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Aditya</a></h1>
+![image](https://github.com/adityamavle/adityamavle/assets/89915132/ff4886c5-781f-467b-8e5f-487936e682a0)<h1 align="center">Hello 👋, I'm Aditya</a></h1>
 <h3 align="center">A passionate Machine Learning Developer from Pune India. </h3>
 
 <p align="center">
@@ -28,24 +28,16 @@
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<div align="center" class="icons-social" style="margin-left: 10px;">
+    <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg">
+    <img style="margin-left: 10px; width: 1px; height: 1px;" src="https://icons8.com/icon/jH4BpkMnRrU5/pytorch">
+    <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+    <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
+    <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/1x/youtube--v2.png">
+    <img style="margin-left: 5px;" src="https://img.icons8.com/plasticine/0.5x/resume.png">
+</div>
+
 
 </p>
 
