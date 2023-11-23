@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aditya</a></h1>
-<h3 align="center">A passionate Machine Learning Developer from Pune India. </h3>
+<h3 align="center">A passionate Machine Learning Developer from Pune, India. </h3>
 
 <p align="center">
   <a href="https://github.com/aditya-gitte" target="_blank">
