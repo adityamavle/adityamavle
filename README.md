@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **adityamavle/adityamavle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, I'm Aditya Gitte!  
+## Hi There 👋, I'm Aditya Mavle!  
   
 
 <a href="https://github.com/aditya-gitte" target="_blank">
