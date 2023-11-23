@@ -1,4 +1,4 @@
-![image](https://github.com/adityamavle/adityamavle/assets/89915132/ff4886c5-781f-467b-8e5f-487936e682a0)<h1 align="center">Hello 👋, I'm Aditya</a></h1>
+<h1 align="center">Hello 👋, I'm Aditya</a></h1>
 <h3 align="center">A passionate Machine Learning Developer from Pune India. </h3>
 
 <p align="center">
@@ -29,9 +29,7 @@
 <p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-    <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-    <img src="https://github.com/valohai/ml-logos/raw/master/pytorch.svg">
-    <img style="margin-left: 10px; width: 1px; height: 1px;" src="https://icons8.com/icon/jH4BpkMnRrU5/pytorch">
+    <img style="margin-left: 10px;" src="![image](https://github.com/adityamavle/adityamavle/assets/89915132/c3a94ddf-ef71-4f9a-97d9-2931155689ad)">
     <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
     <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
     <img style="margin-left: 10px;" src="https://img.icons8.com/doodle/1x/youtube--v2.png">
