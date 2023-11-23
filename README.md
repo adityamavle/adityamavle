@@ -15,7 +15,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 </a>
 
-- 🔭 I’m currently building a [Domain-Specific LLM for Financial Contracts.](https://github.com/adityamavle/Domain_Specific_Financial_LLM)
+- 🔭 I’m currently building a [Domain-Specific LLM for Financial Contracts](https://github.com/adityamavle/Domain_Specific_Financial_LLM).
 
 - 🌱 I’m currently learning **Deep Reinforcement Learning**.
 
@@ -23,7 +23,7 @@
 
 - 📫 Reach me at **adityamavle@gmail.com**.
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/10FjtUzSnHEQkTK05jZ82VXWXtb2-6FkJ/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/10FjtUzSnHEQkTK05jZ82VXWXtb2-6FkJ/view?usp=sharing).
 <!--
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools </h3>
 
