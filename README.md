@@ -24,9 +24,11 @@
 - 📫 Reach me at **adityamavle@gmail.com**.
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/10FjtUzSnHEQkTK05jZ82VXWXtb2-6FkJ/view?usp=sharing)
+<!--
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools </h3>
 
-<p align="center">
+
+<div<p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
     <img style="margin-left: 10px;" src="![image](https://github.com/adityamavle/adityamavle/assets/89915132/c3a94ddf-ef71-4f9a-97d9-2931155689ad)">
@@ -37,5 +39,6 @@
 </div>
 
 
-</p>
+</p> 
+-->
 
