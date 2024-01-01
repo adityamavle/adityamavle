@@ -9,9 +9,7 @@
 - 🔭 I’m currently building a [Domain-Specific LLM for Financial Contracts](https://github.com/adityamavle/Domain_Specific_Financial_LLM).
 
 - 🌱 I’m currently learning **Deep Reinforcement Learning**.
-
-- 💬 Ask me about **PyTorch,TensorFlow and Scikit-Learn**.
-
+  
 - 📫 Reach me at **adityamavle@gmail.com**.
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/10FjtUzSnHEQkTK05jZ82VXWXtb2-6FkJ/view?usp=sharing).
